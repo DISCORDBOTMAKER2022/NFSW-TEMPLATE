@@ -1,0 +1,12 @@
+{
+  "prefix": "+",
+  "token": "MTAxMDIyNjM5NjQ3MzMzNTgzOA.G2Ux9z.Iv_5QE05rNM2_XIQDrGkZYKripFTw1WuHykvsw",
+  "owners": ["903041029480001547", "947966022588182530"],
+  "footer": "NSFW Bot • L4ZARUS",
+
+  "msg": {
+    "nsfwWarn": "Necesitas hacerlo en un canal NFSW!",
+    "loading": "Cargando...",
+    "imageNotLoading": "La imagen no cargo ? Click Aqui"
+  }
+}
